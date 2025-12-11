@@ -83,3 +83,17 @@ Based on our analysis, **Gradient Boosting** is the most effective model for pre
 In this project, we trained models with **Bagging** (Random Forest, Bagging Classifier) and **Boosting** (AdaBoost, Gradient Boosting, XGBoost). While Bagging improved stability and reduced variance, Boosting methods consistently outperformed by correcting errors iteratively and achieving superior accuracy.  
 
 The final Gradient Boosting model has been wrapped into a production-ready pipeline and deployed via a Flask API for real-time predictions. This enables managers to make data-driven decisions about customer targeting and engagement, ultimately improving business outcomes.
+
+
+***Project Files***
+
+- [ML_final_project_Automobile_Customer_segmentation_jupyter.ipynb](ML_final_project_Automobile_Customer_segmentation_jupyter.ipynb)
+- [ML_final_project_Automobile_customer_segmentation_pycharm.py](ML_final_project_Automobile_customer_segmentation_pycharm.py)  
+- [ML_final_project_Automobile_flask_api.py](ML_final_project_Automobile_flask_api.py)
+
+
+***Data***
+
+- [Train.csv](Train.csv)
+- [Test.csv](Test.csv)
+
