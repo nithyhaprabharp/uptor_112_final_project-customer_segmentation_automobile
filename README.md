@@ -113,10 +113,11 @@ In this project, we trained models with **Bagging** (Random Forest, Bagging Clas
 The final Gradient Boosting model has been wrapped into a production-ready pipeline and deployed via a Flask API for real-time predictions. This enables managers to make data-driven decisions about customer targeting and engagement, ultimately improving business outcomes.
 
 
+
 ***Project Files***
 
-- [ML_final_project_Automobile_Customer_segmentation_jupyter.ipynb](ML_final_project_Automobile_Customer_segmentation_jupyter.ipynb)
-- [ML_final_project_Automobile_customer_segmentation_pycharm.py](ML_final_project_Automobile_customer_segmentation_pycharm.py)  
+- [ML_final_project_Automobile_Customer_segmentation_jupyter-updated.ipynb](ML_final_project_Automobile_Customer_segmentation_jupyter-updated.ipynb)
+- [ML_final_project_Automobile_customer_segmentation_pycharm_updatedapiworking.py](ML_final_project_Automobile_customer_segmentation_pycharm_updatedapiworking.py)  
 - [ML_final_project_Automobile_flask_api.py](ML_final_project_Automobile_flask_api.py)
 
 
