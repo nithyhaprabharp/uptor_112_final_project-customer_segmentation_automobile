@@ -114,8 +114,8 @@ The final Gradient Boosting model has been wrapped into a production-ready pipel
 
 ***Project Files***
 
-- [ML_final_project_Automobile_Customer_segmentation_jupyter.ipynb](ML_final_project_Automobile_Customer_segmentation_jupyter.ipynb)
-- [ML_final_project_Automobile_customer_segmentation_pycharm.py](ML_final_project_Automobile_customer_segmentation_pycharm.py)  
+- [ML_final_project_Automobile_Customer_segmentation_jupyter-updated.ipynb](ML_final_project_Automobile_Customer_segmentation_jupyter-updated.ipynb)
+- [ML_final_project_Automobile_customer_segmentation_pycharm_updatedapiworking.py](ML_final_project_Automobile_customer_segmentation_pycharm_updatedapiworking.py)  
 - [ML_final_project_Automobile_flask_api.py](ML_final_project_Automobile_flask_api.py)
 
 
