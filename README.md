@@ -77,6 +77,34 @@ This model significantly reduces misclassification risk and supports strategic d
 
 ---
 
+### Best Model wrapped in flask
+
+### POSTMAN - Predict API
+
+****API url:*** http://127.0.0.1:5000/predict
+
+***sample input request***
+
+{
+  "Gender": "Male",
+  "Ever_Married": "Yes",
+  "Age": 63,
+  "Graduated": "Yes",
+  "Profession": "Artist",
+  "Work_Experience": 5,
+  "Spending_Score": "High",
+  "Family_Size": 3,
+  "Category": "Cat_6"
+}
+
+***Response***
+
+{
+    "predicted_segment": "C",
+    "segment_code": 2
+}
+
+
 ### Conclusion
 Based on our analysis, **Gradient Boosting** is the most effective model for predicting the right group of new customers. It delivers the highest accuracy and balanced performance across all customer segments, ensuring reliable classification.  
 
